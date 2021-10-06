@@ -1,0 +1,27 @@
+.total-bilioner{
+    display: inline-flex;
+}
+.bilioner-container{
+    background-color: lightgray;
+    width: 220px;
+    height: 380px;
+    margin: 10px;
+    border: 5px solid lightgray;
+    border-radius: 5px;
+}
+.bilioner-container img{
+    width: 100px;
+    padding-left:54px;
+    padding-top: 10px;   
+}
+.bilioner-container h3, h5{
+padding-left: 20px;
+}
+.btn{
+    width: 100px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #d3683bb6;
+    margin-left: 50px;
+    margin-bottom: 25px;
+}

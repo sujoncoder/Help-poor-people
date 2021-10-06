@@ -1,0 +1,26 @@
+.main-header{
+    background-image: url(../../image/watercolour-4116932__340.jpg);
+}
+.header{
+    background-image: url(../../image/Bilioner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.header h1{
+    color: #1c2027;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.header h2{
+    color: rgb(25, 3, 121);
+}
+.header span{
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
